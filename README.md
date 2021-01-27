@@ -34,3 +34,12 @@ else:
     print (YK)
 
     print (“is overweight”)
+    
+    
+    
+    
+    import random
+    import sys
+    import os
+    name = 'Anastasia'
+    print(name)
